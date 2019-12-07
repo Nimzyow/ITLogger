@@ -1,0 +1,28 @@
+{
+  "logs": [
+    {
+      "message": "Change network card in server 007",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2019-12-07T00:51:33.708Z",
+      "id": 1
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
